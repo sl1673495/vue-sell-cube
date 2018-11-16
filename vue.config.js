@@ -11,6 +11,7 @@ function resolve (dir) {
 
 module.exports = {
   baseUrl: './',
+  outputDir: 'docs',
   css: {
     loaderOptions: {
       stylus: {
